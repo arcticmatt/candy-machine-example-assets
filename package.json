@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "gen-metadata": "node src/mustache.js"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
