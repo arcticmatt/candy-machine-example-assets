@@ -1,0 +1,15 @@
+{
+  "name": "Simple NFT #6",
+  "image": "5.png",
+  "seller_fee_basis_points": 10,
+  "symbol": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [{"address": "3sdsSwWWjjGA7HpPBQfGaXRE2HqmdKicMXHRapqLAu4L", "share": 100}]
+  }
+}
