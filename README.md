@@ -6,3 +6,9 @@ Here are the main changes I made:
 
 1. Added necessary fields to the metadata files
 2. Increased the asset size (necessary because of [this issue](https://github.com/metaplex-foundation/metaplex/issues/638))
+
+Run this script to generate the metadata:
+
+```
+$ yarn gen-metadata
+```
